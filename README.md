@@ -7,14 +7,14 @@ En este proyecto se encuentran los 13 ejercicios en JSX de manera individual.
 > Para clonar el proyecto brindamos las siguientes 2 opciones.
  * **Clone with SSH:** 
  ```
- git@gitlab.com:darias05/tarea_13_jsx_practica.git
+ git@github.com:Nicosqui/tarea_13_jsx_practica.git
  ```
  * **Clone with HTTPS:** 
  ```
- https://gitlab.com/darias05/tarea_13_jsx_practica.git
+ https://github.com/Nicosqui/tarea_13_jsx_practica.git
  ```
 
 ## Autores
-> Dylan Arias Arenas
+> Valentina Diaz Orozco
 
-> Ginna Paola Tangarife
+> Nicolas Trujillo Rios
